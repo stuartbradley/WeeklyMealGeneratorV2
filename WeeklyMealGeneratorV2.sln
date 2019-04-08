@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeeklyMealGeneratorV2", "WeeklyMealGeneratorV2\WeeklyMealGeneratorV2.csproj", "{DA6DFDCC-9231-4203-8361-D7E72259E43F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6DFDCC-9231-4203-8361-D7E72259E43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6DFDCC-9231-4203-8361-D7E72259E43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6DFDCC-9231-4203-8361-D7E72259E43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6DFDCC-9231-4203-8361-D7E72259E43F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {244D1B50-95A3-432B-946F-DC8C4A319964}
+	EndGlobalSection
+EndGlobal
